@@ -9,7 +9,7 @@ function App() {
         <p>
             Edit <code>src/App.js</code> and save to reload.
             <br />
-            And.... we changed it again and again :-)!
+            I was changed on the feature branch
         </p>
         <a
           className="App-link"
